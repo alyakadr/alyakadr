@@ -9,55 +9,6 @@
 
 ---
 
-<p align="left">
-  <strong>Nur Aliyah Abd Kadir</strong> · Batu Pahat, Johor
-</p>
-
-<ul align="left">
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="16" height="16" alt="" />
-    <strong>BSc Information Science (Hons.) Information Systems Management</strong><br />
-    UiTM Puncak Perdana (Oct 2022 – Feb 2026)<br />
-    CGPA: <strong>3.57</strong>
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="16" height="16" alt="" />
-    <strong>Web Developer — StudentQR (Jaxer Digital)</strong><br />
-    Worked across internship &amp; contract, contributing to <strong>ParentQR</strong> using Vue 3, Tailwind, Laravel 12 + MongoDB.<br />
-    Also built QR-related tooling with Node.js, Express, TypeScript &amp; Puppeteer.
-  </li>
-</ul>
-
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="22" height="22" alt="" />
-  What I enjoy working on
-</h3>
-
-<ul align="left">
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4a1.svg" width="16" height="16" alt="" />
-    Building smooth, user-friendly interfaces
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="16" height="16" alt="" />
-    Exploring QA, testing flows, and real device validation
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="16" height="16" alt="" />
-    Supporting deployments (Linux), improving docs &amp; onboarding (Tango)
-  </li>
-  <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg" width="16" height="16" alt="" />
-    Working with tools like OneSignal, Jenkins, and app store assets
-  </li>
-</ul>
-
-<p align="left">
-  I&apos;m someone who genuinely enjoys the process — from designing interfaces to testing edge cases and making sure everything just feels right for users <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f496.svg" width="18" height="18" alt="" />
-</p>
-
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alyakadr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak stats" />
 </div>
