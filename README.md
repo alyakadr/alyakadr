@@ -43,7 +43,7 @@
     Exploring QA, testing flows, and real device validation
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699-fe0f.svg" width="16" height="16" alt="" />
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="16" height="16" alt="" />
     Supporting deployments (Linux), improving docs &amp; onboarding (Tango)
   </li>
   <li>
@@ -73,7 +73,7 @@
 ---
 
 <h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0-fe0f.svg" width="22" height="22" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="22" height="22" alt="" />
   Tech I use
 </h3>
 
