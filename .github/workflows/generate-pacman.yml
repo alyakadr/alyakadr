@@ -20,7 +20,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # PAT with read:user matches your logged-in profile (incl. private repos when enabled in profile settings). GITHUB_TOKEN alone only sees public contribution data.
           github_token: ${{ secrets.PACMAN_GITHUB_TOKEN || github.token }}
 
       - name: push pacman-contribution-graph.svg to the output branch
