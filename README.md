@@ -9,11 +9,6 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9d1-200d-1f4bb.svg" width="22" height="22" alt="" />
-  About me
-</h3>
-
 <p align="left">
   <strong>Nur Aliyah Abd Kadir</strong> · Batu Pahat, Johor
 </p>
