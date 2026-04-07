@@ -43,11 +43,11 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/alyakadr/alyakadr/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<br />
 
-<h2 align="center">🧸 Tech I use 🧸</h2>
+<p align="center"><strong>🧸 Tech I use 🧸</strong></p>
 
-<table align="center" cellpadding="6">
+<table align="center" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></td>
@@ -76,24 +76,19 @@
   </tr>
 </table>
 
----
+<br />
 
-<h2 align="center">💌 Let's connect 💌</h2>
+<p align="center"><strong>💌 Let's connect 💌</strong></p>
 
-<table align="center" cellpadding="12">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/alyakadr" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="44" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:aliyahkadir222@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="44" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alyakadr" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="44" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aliyahkadir222@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="44" alt="Email" />
+  </a>
+</div>
 
 <br />
 
