@@ -53,10 +53,7 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="22" height="22" alt="" />
-  Tech I use
-</h3>
+<h2 align="center">🧸 Tech I use 🧸</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue" height="56" alt="Vue.js" />
@@ -106,10 +103,7 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ec.svg" width="22" height="22" alt="" />
-  Let's connect
-</h3>
+<h2 align="center">💌 Let's connect 💌</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alyakadr" target="_blank" rel="noreferrer">
@@ -121,8 +115,12 @@
   </a>
 </div>
 
+<h2 align="center">🌸 Follow 🌸</h2>
+<br />
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f431.svg" width="72" height="72" alt="cat" />
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
   <br />
   <sub>Thanks for visiting my profile</sub>
 </p>
