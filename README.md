@@ -1,40 +1,32 @@
-<h1 align="left">Hey there <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="28" height="28" alt="wave" /> I&apos;m Aliyah</h1>
+<h1 align="left">Hey there 👋 I&apos;m Aliyah</h1>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="18" height="18" alt="" />
-  A web developer who loves turning ideas into real, usable products <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="18" height="18" alt="" /> I work mainly with <strong>Vue.js 3</strong> &amp; <strong>Tailwind CSS</strong>, and I&apos;ve also built full-stack academic projects using <strong>React</strong>, <strong>Node.js</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>Python</strong>.
+  💻 A web developer who loves turning ideas into real, usable products ✨ I work mainly with <strong>Vue.js 3</strong> &amp; <strong>Tailwind CSS</strong>, and I&apos;ve also built full-stack academic projects using <strong>React</strong>, <strong>Node.js</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>Python</strong>.
   <br /><br />
-  I enjoy crafting clean, intuitive UI/UX, building REST APIs, and working with <strong>Laravel</strong> &amp; <strong>MongoDB</strong> on the backend. I&apos;ve had the chance to contribute to edtech solutions used by schools across Malaysia, which really shaped how I think about usability, performance, and real-world impact <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="18" height="18" alt="" />
+  I enjoy crafting clean, intuitive UI/UX, building REST APIs, and working with <strong>Laravel</strong> &amp; <strong>MongoDB</strong> on the backend. I&apos;ve had the chance to contribute to edtech solutions used by schools across Malaysia, which really shaped how I think about usability, performance, and real-world impact 📊
 </p>
 
 ---
 
-<h3 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="22" height="22" alt="" />
-  What I enjoy working on
-</h3>
+<h3 align="left">🌷 What I enjoy working on</h3>
 
 <ul align="left">
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4a1.svg" width="16" height="16" alt="" />
-    Building smooth, user-friendly interfaces
+    💡 Building smooth, user-friendly interfaces
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="16" height="16" alt="" />
-    Exploring QA, testing flows, and real device validation
+    🧪 Exploring QA, testing flows, and real device validation
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="16" height="16" alt="" />
-    Supporting deployments (Linux), improving docs &amp; onboarding (Tango)
+    ⚙️ Supporting deployments (Linux), improving docs &amp; onboarding (Tango)
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg" width="16" height="16" alt="" />
-    Working with tools like OneSignal, Jenkins, and app store assets
+    📱 Working with tools like OneSignal, Jenkins, and app store assets
   </li>
 </ul>
 
 <p align="left">
-  I&apos;m someone who genuinely enjoys the process — from designing interfaces to testing edge cases and making sure everything just feels right for users <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f496.svg" width="18" height="18" alt="" />
+  I&apos;m someone who genuinely enjoys the process — from designing interfaces to testing edge cases and making sure everything just feels right for users 💖
 </p>
 
 ---
@@ -115,8 +107,6 @@
   </a>
 </div>
 
-<h2 align="center">🌸 Follow 🌸</h2>
-<br />
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
